@@ -2,9 +2,6 @@
 
 **`Tech Student from Norway`**
 
-📬 nguyen.hoangvinh@outlook.com
-<br>
-
 ### 🔗 Connect with me 
 <a href="https://www.linkedin.com/in/hv-nguyen/"> 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
