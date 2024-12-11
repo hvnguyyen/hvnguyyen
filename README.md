@@ -10,8 +10,8 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<a href="nguyen.hoangvinh@outlook.com"> 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="nguyen.hoangvinh@outlook.com" />
+<a href="mailto:nguyen.hoangvinh@outlook.com"> 
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/vectors/email-svgrepo-com.svg" />
 </a>
 <br><br>
 
