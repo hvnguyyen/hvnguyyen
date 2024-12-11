@@ -2,7 +2,7 @@
 
 **`Tech Student from Norway`**
 
-📬 hei@hvnguyen.no
+📬 nguyen.hoangvinh@outlook.com
 <br>
 
 ### 🔗 Connect with me 
