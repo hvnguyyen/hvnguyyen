@@ -10,7 +10,7 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/hv-nguyen/"> 
+<a href="nguyen.hoangvinh@outlook.com"> 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="nguyen.hoangvinh@outlook.com" />
 </a>
 <br><br>
