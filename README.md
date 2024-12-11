@@ -11,7 +11,7 @@
 </a>
 
 <a href="mailto:nguyen.hoangvinh@outlook.com"> 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/ssxZpbpGvvl1/email" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=80&id=ssxZpbpGvvl1&format=png" />
 </a>
 <br><br>
 
