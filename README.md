@@ -7,6 +7,7 @@ Western Norway University of Applied Sciences:)
 
 
 Contact: 📬nguyen.hoangvinh@outlook.com
+<br>
 
 
 ### Connect with me
@@ -15,7 +16,7 @@ Contact: 📬nguyen.hoangvinh@outlook.com
 </a>
 <br><br>
 
-### 🕹️Languages and Tools
+### Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
