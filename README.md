@@ -7,7 +7,7 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<a href="mailto:nguyen.hoangvinh@outlook.com"> 
+<a href="mailto:hvnguyen.work@gmail.com"> 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/474224/email.svg" />
 </a>
 <br><br>
